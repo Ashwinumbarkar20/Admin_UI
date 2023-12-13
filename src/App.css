@@ -1,0 +1,11 @@
+:root {
+  --Yellow: #F4F27E;
+  --blue:#6DB9EF;
+  --Darkblue: #3081D0;
+  --white:#FFFFFF;  
+}
+body{
+background-color: var(--white);
+max-width: 1200px;
+margin:0 auto;
+}
