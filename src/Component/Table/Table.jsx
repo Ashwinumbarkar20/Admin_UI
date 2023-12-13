@@ -41,7 +41,7 @@ const handleSingleDelete=(id)=>{
     <Maindiv>
     {allData.length===0?<>
     <div className='notfound__container'>
-      <p>NO MATCH FOUND</p>
+      <p>* NO DATA FOUND *</p>
     </div>
     </>:<>
     <table>
